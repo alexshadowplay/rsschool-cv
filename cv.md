@@ -37,7 +37,7 @@ I am a recent computer programming course graduate looking for an entry-level Ja
 
  - **RS School student project**
 
- Developed and designed a digital CV in Markdown on GitHub [RSSchool-CV](https://alexshadowplay.github.io/rsschool-cv/cv)  
+[RSSchool-CV](https://alexshadowplay.github.io/rsschool-cv/cv)  
 
 &nbsp;
 
