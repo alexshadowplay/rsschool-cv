@@ -5,6 +5,8 @@
 
 **Github:** [alexshadowplay](http://github.com/alexshadowplay)
 
+**Discord:** [Alexandra Shebeko#6864](https://discord.gg/nmxAXpWKW5)
+
 **Location:** Moscow, Russia
 
 &nbsp;
@@ -17,8 +19,8 @@ I am a recent computer programming course graduate looking for an entry-level Ja
 
 ## **KEY SKILLS AND KNOWLEDGE**
 
-- HTML5, CSS, JavaScript, TypeScript, jQuery, React, Ajax, NodeJS, GraphQL, SQL
-- Experienced in using Git/GitHub, VS Code, and Adobe Creative Suit
+- HTML5, CSS, JavaScript, TypeScript, React, NodeJS
+- Experienced in using Git/GitHub, VS Code
 
 &nbsp;
 
@@ -31,38 +33,31 @@ I am a recent computer programming course graduate looking for an entry-level Ja
 
 &nbsp;
 
-## **EMPLOYMENT HISTORY**  
+## **PROJECTS**  
 
+ - **RS School student project**
 
- - **2022**  **RS School student project**
-
- Developed and designed a digital CV in Markdown on GitHub [RSSchool-CV](https://alexshadowplay.github.io/rsschool-cv/cv)
-
- - **2019 – 2021** **Freelance Production Assistant**
-
- - **2010 – 2017** **RBC-TV**
-
-News Content Editor  
+ Developed and designed a digital CV in Markdown on GitHub [RSSchool-CV](https://alexshadowplay.github.io/rsschool-cv/cv)  
 
 &nbsp;
 
 ## **EDUCATION**  
 
- - **2022** **RS School**
+ - **RS School** 
 
-JavaScript Frontend Developer Training Course
+[JavaScript Frontend Developer Training Course](https://rs.school/js/)
 
- - **2017 – 2019** **University of Chester (United Kingdom)**
+ - **University of Chester (United Kingdom)**
 
 MA Television Production
 
- - **2005 – 2010** **Moscow Aviation Institute (MAI)**
+ - **Moscow Aviation Institute (MAI)**
 
-Specialist Degree in Corporate Management  
+BA Management  
 
 &nbsp;
 
 ## **LANGUAGES**
 
 - Russian: native
-- English: B2 (I have a degree-level academic qualification that was taught in English)
+- English: C1 (I have a degree-level academic qualification that was taught in English)
