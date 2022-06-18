@@ -2,26 +2,14 @@ font-face {
    font-family: Lato-Regular;
    src: url("assets/fonts/Lato-Regular.ttf");
 }
-* {
-   box-sizing: border-box;
-}
-body {
-   display: flex;
-   flex-direction: column;
-   justify-content: space-between;
-}
-.container {
-   max-width: 1440px;
-   margin: 0 auto;
-}
 html {
    scroll-behavior: smooth; 
 }
 header {
-   background: #20b2aa;
-   border: solid 3px black;
-   padding: 20px 0 20 px 15 px;
-   margin-bottom: 15px;
+   background: #add8e6;
+   border: solid 1px black;
+   padding: 20px 0 20px 15px;
+   margin-bottom: 10px;
    font-size: 24px;
    font-weight: bold;
    color: black;
@@ -29,3 +17,51 @@ header {
 h1 {
    text-align: center
 }
+a {
+   text-decoration: none;
+}
+.nav {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   font-size: 1rem;
+}
+.nav ul {
+   margin: 0 auto;
+   padding: 1em 0;
+}
+.nav li {
+   display: inline;
+   color: black;
+}
+body {
+   background: #ffe4c4;
+   margin: 0;
+}
+.container {
+   display: flex;
+   flex-direction: row;
+   align-items: stretch;
+}
+aside {
+   width: 800px;
+   padding-left: 10px;
+   padding-right: 15px;
+   font-size: 1.2rem;
+}
+main {
+   width: calc(100%-800px);
+   font-size: 1.2rem;
+   padding-right: 10px;
+}
+#contactslist {
+   padding-left: 0;
+   font-size: 1.1rem;
+   width: 300px;
+}
+   
+
+
+
+
+   
