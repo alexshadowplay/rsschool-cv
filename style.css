@@ -123,3 +123,6 @@ footer .menu li p {
 @media screen and (width: 1024px) {
    .body {width:980px;}
 }
+Code {
+   font-family: monospace;
+}
